@@ -32,7 +32,6 @@ const formatWords = words => {
 
 console.log(formatWords(['one', 'two', 'three', 'four']));
 console.log(formatWords(['one', '', 'three']));
-console.log(formatWords(['one', 'two', 'three']));
 console.log(formatWords(['one', 'two', '']));
 console.log(formatWords([null]));
 console.log(formatWords(['']));
